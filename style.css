@@ -11,7 +11,7 @@ h1 {
     color: orangered;
 }
 
-section {
+.flexjibal-continar {
     display: flex;
     margin-bottom: 150px;
 }
